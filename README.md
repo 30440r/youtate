@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Chromium-Stable-green" />](https://30440r.github.io/404.html)
 
-#### Rotate those annoying youtube videos that were uploaded upside down.
+#### Rotate those annoying youtube videos that were uploaded upside down or sideways.
 
 
 # Installation Instructions
