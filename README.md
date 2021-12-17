@@ -4,7 +4,6 @@
 
 #### Rotate those annoying youtube videos that were uploaded upside down.
 
-These are for manually installing the addon. if you do not wish to do this, [Add if from the web stores](https://30440r.github.io/404.html)
 
 # Installation Instructions
 
