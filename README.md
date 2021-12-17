@@ -9,8 +9,8 @@
 
 
 ## Google Chrome (Windows)
-1) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.crx).
-2) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.crx extension file you just downloaded into the page.
+1) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.zip).
+2) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip file you just downloaded into the page.
 
 N.B. This trick is collected from [here](https://stackoverflow.com/a/48990515/13519865).
 
@@ -27,5 +27,5 @@ N.B. This trick is collected from [here](https://stackoverflow.com/a/48990515/13
 
 ## Ungoogled Chromium
 1) Install the chromium-web-store extension by following the instructions on [this page](https://github.com/NeverDecaf/chromium-web-store/blob/master/README.md).
-2) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.crx).
-3) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.crx extension file you just downloaded into the page.
+2) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.zip).
+3) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip efile you just downloaded into the page.
