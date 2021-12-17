@@ -4,7 +4,6 @@
 
 #### Rotate those annoying youtube videos that were uploaded upside down.
 
-These are for manually installing the addon. if you do not wish to do this, [Add if from the web stores](https://30440r.github.io/404.html)
 
 # Installation Instructions
 
@@ -17,7 +16,7 @@ N.B. This trick is collected from [here](https://stackoverflow.com/a/48990515/13
 
 
 
-## Kiwi (Android)
+## ~~Kiwi (Android)~~
 1) Install Kiwi from [the play store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser).
 2) Download the [latest version of the extension](https://30440r.github.io/404.html).
 3) Open kiwi and tap on the 3-dot menu in the top right corner and tap on the "Extensions" option.
