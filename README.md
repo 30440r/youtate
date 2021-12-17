@@ -1,35 +1,32 @@
 # YouTate
 
-[<img src="https://img.shields.io/badge/Chromium-Stable-green" />](https://google.com)
-[<img src="https://img.shields.io/badge/Firefox-Unmade-e77334" />](https://google.com)
+[<img src="https://img.shields.io/badge/Chromium-Stable-green" />](https://30440r.github.io/404.html)
 
 #### Rotate those annoying youtube videos that were uploaded upside down.
 
-These are for manually installing the addon. if you do not wish to do this, [Add if from the web stores](https://fastforward.team/install)
+These are for manually installing the addon. if you do not wish to do this, [Add if from the web stores](https://30440r.github.io/404.html)
 
-# Installation instructions
-## Chromium based browsers:
-| :information_source: Auto-updating builds for Google Chrome (Windows & Linux), Kiwi(Android), Ungoogled Chromium and Edge are now available |
-| :-: |
-| [Click here for instructions](https://github.com/FastForwardTeam/releases#installation-instructions) |
+# Installation Instructions
 
-NOTE: You will have to repeat the following installation process to update
-Chromium based browsers that are not mentioned above \[ie. Chrome (Mac), Brave, etc]
 
-1. Download the zip file using [this link](https://google.com).
-2. Unzip the file once, leaving you with another zip file.
-3. Open the manage extensions page on your browser and turn on "Developer Mode"
-4. Drag and drop `youtate.zip` into the manage extensions page.
+## Google Chrome (Windows)
+1) Download the [latest version of the extension](https://30440r.github.io/404.html).
+2) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.crx extension file you just downloaded into the page.
 
-## Firefox and Firefox based browsers:
+N.B. This trick is collected from [here](https://stackoverflow.com/a/48990515/13519865).
 
-This will not work in any version of Firefox.
 
-1. Download the zip using [this link](https://google.com).
-2. Unzip the downloaded file so that you have FastForward_firefox_X.XXXX.xpi.
-3. Open about:config
-4. Search for xpinstall.signatures.required
-5. Toggle xpinstall.signatures.required to false using the button on the right.
-6. Restart Firefox.
-7. Open about:addons
-8. Drag your file.xpi onto firefox, and click "add" when prompted.
+
+## Kiwi (Android)
+1) Install Kiwi from [the play store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser).
+2) Download the [latest version of the extension](https://30440r.github.io/404.html).
+3) Open kiwi and tap on the 3-dot menu in the top right corner and tap on the "Extensions" option.
+4) Make sure developer mode is turned on and then tap on "+(from .zip/.crx/.user.js)" and choose the YouTate.crx extension file you just downloaded.
+5) Enable the extension by tapping on the toggle and click on "ok" if any dialogs pop up.
+
+
+
+## Ungoogled Chromium
+1) Install the chromium-web-store extension by following the instructions on [this page](https://github.com/NeverDecaf/chromium-web-store/blob/master/README.md).
+2) Download the [latest version of the extension](https://30440r.github.io/404.html).
+3) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.crx extension file you just downloaded into the page.
