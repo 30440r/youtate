@@ -16,7 +16,7 @@
 	},
 	"page_action": {
 		"default_icon": "img/Actions-transform-rotate-icon.png",
-		"default_title": "rotate youtube videos"
+		"default_title": "click to rotate this video 90°"
 	},
 	"content_scripts": [
 		{
