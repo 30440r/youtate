@@ -12,7 +12,7 @@
 1) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.zip).
 2) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip file you just downloaded into the page.
 
-N.B. This trick is collected from [here](https://stackoverflow.com/a/48990515/13519865).
+This trick is collected from [here](https://stackoverflow.com/a/48990515/13519865).
 
 
 
