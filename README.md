@@ -2,7 +2,9 @@
 
 [<img src="https://img.shields.io/badge/Chrome-Stable-green" />](https://github.com/30440r/youtate/releases)
 [<img src="https://img.shields.io/badge/Chromium-Stable-green" />](https://github.com/30440r/youtate/releases)
-[<img src="https://img.shields.io/badge/Firefox-Coming%20Soon-red" />](https://github.com/30440r/youtate/releases)
+[<img src="https://img.shields.io/badge/Firefox-Coming%20Soon-red" />](https://github.com/30440r/youtate/)
+[<img src="https://img.shields.io/badge/Opera-Nightly-yellow" />](https://github.com/30440r/youtate/releases)
+[<img src="https://img.shields.io/badge/Brave-Untested-yellow" />](https://github.com/30440r/youtate/releases)
 
 #### Rotate those annoying youtube videos that were uploaded upside down or sideways.
 
