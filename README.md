@@ -12,7 +12,7 @@
 # Installation Instructions
 
 
-## Google Chrome (Windows)
+## Google Chrome
 1) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.zip).
 2) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip file you just downloaded into the page.
 
@@ -24,3 +24,17 @@ This trick is collected from [here](https://stackoverflow.com/a/48990515/1351986
 1) Install the chromium-web-store extension by following the instructions on [this page](https://github.com/NeverDecaf/chromium-web-store/blob/master/README.md).
 2) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.zip).
 3) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip efile you just downloaded into the page.
+
+## Firefox
+Coming Soon.
+
+
+
+## Opera
+remind me to add this later.
+
+
+
+## Brave
+1) Download the [latest version of the extension](https://github.com/30440r/youtate/releases/download/1.0/youtate.zip).
+2) Open `brave://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip file you just downloaded into the page.
