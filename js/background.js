@@ -1,36 +1,36 @@
-chrome.runtime.onInstalled.addListener(() => {
-	chrome.declarativeContent.onPageChanged.removeRules(undefined, () => {
-		chrome.declarativeContent.onPageChanged.addRules([
+browser.runtime.onInstalled.addListener(() => {
+	browser.declarativeContent.onPageChanged.removeRules(undefined, () => {
+		browser.declarativeContent.onPageChanged.addRules([
 			{
 				conditions: [
-					new chrome.declarativeContent.PageStateMatcher({
+					new browser.declarativeContent.PageStateMatcher({
 						pageUrl: {
 							urlContains: 'youtube.com/watch'
 						}
 					})
 				],
-				actions: [new chrome.declarativeContent.ShowPageAction()]
+				actions: [new browser.declarativeContent.ShowPageAction()]
 			}
 		])
 	})
 })
 
-chrome.contextMenus.create({
+browser.contextMenus.create({
 	id                  : 'YouTate',
 	title               : 'YouTate',
 	documentUrlPatterns : ["https://*.youtube.com/watch*"]
 })
 
-chrome.contextMenus.onClicked.addListener((info, tab) => {
+browser.contextMenus.onClicked.addListener((info, tab) => {
 	if (info.menuItemId === 'YouTate') {
-		chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
-			chrome.tabs.sendMessage(tabs[0].id, { cmd: 'YouTate' })
+		browser.tabs.query({ active: true, currentWindow: true }, tabs => {
+			browser.tabs.sendMessage(tabs[0].id, { cmd: 'YouTate' })
 		})
 	}
 })
 
-chrome.pageAction.onClicked.addListener(() => {
-	chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
-		chrome.tabs.sendMessage(tabs[0].id, { cmd: 'YouTate' })
+browser.pageAction.onClicked.addListener(() => {
+	browser.tabs.query({ active: true, currentWindow: true }, tabs => {
+		browser.tabs.sendMessage(tabs[0].id, { cmd: 'YouTate' })
 	})
 })
