@@ -67,7 +67,7 @@ const rotate = counter => {
 	}
 }
 
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
 	if (request.cmd === 'YouTate') { rotate(++counter) }
 })
 
