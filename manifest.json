@@ -6,7 +6,7 @@
 	"version": "1.0.0",
 	"description": "rotates youtube videos",
 	"icons": {
-		"16": "img/Actions-transform-rotate-icon.png",
+		"16": "img/Actions-transform-rotate-icon.pmg",
 		"48": "img/Actions-transform-rotate-icon.png",
 		"128": "img/Actions-transform-rotate-icon.png"
 	},
