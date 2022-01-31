@@ -26,12 +26,12 @@ This trick is collected from [here](https://stackoverflow.com/a/48990515/1351986
 3) Open `chrome://extensions` and make sure developer mode mode is turned on, then drag and drop the YouTate.zip efile you just downloaded into the page.
 
 ## Firefox
-Coming Soon.
+remind me to add this later.
 
 
 
 ## Opera
-remind me to add this later.
+remind me to also add this later.
 
 
 
