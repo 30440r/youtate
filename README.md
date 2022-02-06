@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Chrome-Stable-green" />](https://github.com/30440r/youtate/releases)
 [<img src="https://img.shields.io/badge/Chromium-Stable-green" />](https://github.com/30440r/youtate/releases)
-[<img src="https://img.shields.io/badge/Firefox-Nightly-orange" />](https://github.com/30440r/youtate/)
+[<img src="https://img.shields.io/badge/Firefox-Untested-orange" />](https://github.com/30440r/youtate/)
 [<img src="https://img.shields.io/badge/Opera-Nightly-orange" />](https://github.com/30440r/youtate/releases)
 [<img src="https://img.shields.io/badge/Brave-Untested-orange" />](https://github.com/30440r/youtate/releases)
 
